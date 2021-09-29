@@ -1,0 +1,4 @@
+5 – Descreva todos os passos da criação a execução de uma classe java.
+
+O código fonte é escrito e compilado pelo JavaC, gerando o Bytecode, sendo que este ainda NÃO é executável. Em seguida, o Bytecode é interpretado pela Java Virtual Machine (JVM),
+que torna-o executável, e, então, é enviado à máquina.
