@@ -1,0 +1,45 @@
+package com.company;
+
+public class Transporte {
+
+    public void acelerar() {
+            System.out.println(("O transporte está acelerando!"));
+    }
+    void frear(){
+        System.out.println(("O transporte está freando!"));
+    }
+    void recebePassageiro() {
+        System.out.println(("O transporte está recebendo um passageiro!"));
+    }
+}
+
+public class Automovel extends Transporte{
+    public void abastecer(){
+        System.out.println("O automóvel está sendo abastecido!");
+    }
+    public void passarMarcha(){
+        System.out.println("A marcha está sendo passada!");
+    }
+}
+
+public class Ferrari extends Automovel{
+
+}
+
+public class Aviao extends Transporte{
+    public void levantaVoo(){
+        System.out.println("O avião está levantando voo!");
+    }
+    public void pousar(){
+        System.out.println("O avião está pousando!");
+    }
+}
+
+public class Navio extends Transporte{
+    public void afundar(){
+        System.out.println("O navio está afundando!");
+    }
+    public void ancorar(){
+        System.out.println("O navio está ancorando!");
+    }
+}
