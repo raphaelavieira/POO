@@ -1,0 +1,14 @@
+Defina Encapsulamento, Herança, Abstração e fale qual a diferença entre eles, e quais as vantagens proporcionadas com
+a sua utilização.
+
+Abstração: utilizada para a definição de entidades do mundo real, tendo como consideração seus atributos e métodos.
+    Vantagem: maior realismo ao código.
+
+Encapsulamento: segrega as funcionalidades do sistema, controlando o acesso a estes através dos controladores de visibilidade.
+    Vantagens: maior proteção do código; facilita as modificações no software e melhora sua organização.
+
+Herança: permite a criação de novas classes a partir de outras preexistentes.
+    Vatagem: reutilização do código.
+    
+Diferenças: a herança a herança advém de métodos e atributos preexistentes, enquanto a abstração utiliza-se de instâncias fundamentais do objeto e encapsulamento cuida de sua 
+"privacidade".
