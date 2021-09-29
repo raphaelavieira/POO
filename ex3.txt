@@ -1,0 +1,5 @@
+3 – Podemos dizer que um programa apenas por ser escrito em java pode ser executado em qualquer SO? Explique por que
+sim ou porque não.
+
+Sim, pois existe uma Java Virtual Machine (JVM) específica para cada sistema operacional, transformando o bytecode em código executável para cada um deles. Sendo assim, pode-se
+dizer que a linguagem Java é multiplataforma.
