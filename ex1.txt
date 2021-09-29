@@ -1,0 +1,5 @@
+1 – Explique a relação entre Classes e Objetos, informando também o que define o comportamento e o estado que os
+objetos podem realizar e assumir.
+
+Objeto é a instância de uma classe, sendo que esta é responsável por definir os atributos e métodos comuns que serão compartilhados por um objeto. Para criar um objeto, 
+deve-se, primeiramente, atribuir-lhe uma classe.
